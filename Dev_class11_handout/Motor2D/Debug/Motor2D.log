@@ -1,0 +1,30 @@
+﻿Compilación iniciada a las 11/12/2015 12:55:25.
+     1>Proyecto "D:\Users\jordinps\Desktop\Dev_class11_handout\Motor2D\Motor2D.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _ITERATOR_DEBUG_LEVEL=0 /D _MBCS /Gm /EHsc /RTC1 /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt j1Gui.cpp
+         j1Gui.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Users\jordinps\Desktop\Dev_class11_handout\Debug\Development - Class 11.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Users\jordinps\Desktop\Dev_class11_handout\Debug\Development - Class 11.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Users\jordinps\Desktop\Dev_class11_handout\Debug\Development - Class 11.lib" /MACHINE:X86 Debug\j1FileSystem.obj
+         Debug\j1Fonts.obj
+         Debug\j1Gui.obj
+         Debug\j1Main.obj
+         Debug\j1App.obj
+         Debug\j1Audio.obj
+         Debug\j1Input.obj
+         Debug\j1Map.obj
+         Debug\j1Pathfinding.obj
+         Debug\j1PerfTimer.obj
+         Debug\j1Scene.obj
+         Debug\j1Timer.obj
+         Debug\p2Log.obj
+         Debug\j1Render.obj
+         Debug\j1Textures.obj
+         Debug\j1Window.obj
+         Debug\pugixml.obj
+         Debug\UIelement.obj
+         Motor2D.vcxproj -> D:\Users\jordinps\Desktop\Dev_class11_handout\Debug\Development - Class 11.exe
+     1>Compilación del proyecto terminada "D:\Users\jordinps\Desktop\Dev_class11_handout\Motor2D\Motor2D.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:01.38
